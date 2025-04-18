@@ -1,5 +1,10 @@
 # Log collater for IBL
 
+## What it does
+Goes into your emails and extracts all the important parts of your logs for each week in .txt files
+
+Will go to a **/logs** folder
+
 ## Setup
 
 ```pip install simplegmail```
@@ -13,6 +18,4 @@
 - Download the client_secret.json file
 - Place it in the same folder as the script
 
-## Output
 
-Summaries of all the important parts of your logs for each week in .txt files in **/logs** folder
